@@ -1,0 +1,9 @@
+{
+  "name": "ORION",
+  "short_name": "ORION",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "background_color": "#05030a",
+  "theme_color": "#05030a"
+}
